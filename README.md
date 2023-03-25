@@ -331,7 +331,9 @@ unsigned int __cdecl xor_strings(char *Str, char *a2)
 }
 ```
 
-- Ta sử dụng công cụ debug trên ida để xem nội dung chuối str đặt br tại ret ta có thể thấy được chuỗi cuối cùng sau khi chương trình thực hiện phép xor.
+- Ta sử dụng công cụ debug trên ida để xem nội dung chuối str đặt `br*` tại `ret` ta có thể thấy được chuỗi cuối cùng sau khi chương trình thực hiện phép xor khi xem trên stack của nó.
+![image](https://user-images.githubusercontent.com/91616280/227747463-9f95c8aa-7473-42eb-9149-5ca3deb85aec.png)
+
 ```
 Stack[00004EC0]:0061FEAC db  58h ; X
 Stack[00004EC0]:0061FEAD db  61h ; a
