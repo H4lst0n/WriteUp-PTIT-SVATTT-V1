@@ -7,7 +7,7 @@
 
 - Chúng ta sẽ có 1 file rar khi tải về máy.
 - Mở file rar và xem qua thì thấy đây là 1 folder chứa nhiều folder con hơn nữa và bên trong mỗi folder sẽ có nhiều folder tiếp tục mở thì trong mỗi folder sẽ có 10 file txt.
-- Để tìm ra flag bài này cũng có rất nhiều tool hỗ trợ nhưng tôi sẽ dùng luôn chức năng tìm kiếm của winrar bằng công cụ Find trong Winrar.
+- Để tìm ra flag bài này tôi sẽ dùng luôn chức năng tìm kiếm của winrar bằng công cụ Find trong Winrar.
 
 ![image](https://user-images.githubusercontent.com/91616280/227745287-ba9a6e14-480d-4b08-8c04-53f084b990f9.png)
 
