@@ -90,14 +90,8 @@ ATTT{Meow_meow_meow_meow_tra_lai_tam_tri_toi_day}
 ![image](https://user-images.githubusercontent.com/91616280/227745776-20b3359d-0b81-4ca7-bc5c-d4afb42e8e34.png)
 
 ## Solution
-- Khi làm bài crypto này tôi đã đọc được write up của 1 bài tương tự của 1 người anh trong ISP CLUB. 
 
-
-![image](https://user-images.githubusercontent.com/91616280/227745913-98e83784-0c3b-494f-b4b4-b9d05eb771ef.png)
-
-- Đây là link bài viết write up `https://viblo.asia/p/write-up-htb-cyber-apocalypse-2023-perfect-synchronization-5OXLAY7kLGr`.
-
-- Dựa vào write up của anh tôi cũng đã viết ra 1 tool để tính tần suất xuất hiện (phá mã hóa thay thế).
+- Tôi đã tham khảo và viết ra 1 tool để tính tần suất xuất hiện (phá mã hóa thay thế).
 ```
 import pandas as pd
 
