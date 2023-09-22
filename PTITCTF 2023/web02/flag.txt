@@ -1,0 +1,24 @@
+Database: ISP
+Table: user
+[11 entries]
++----+-----------------+---------------------------+--------+
+| id | name            | email                     | hidden |
++----+-----------------+---------------------------+--------+
+| 1  | Joseph Williams | ylittle@example.net       | 0      |
+| 2  | James Wilson    | csnow@example.com         | 0      |
+| 3  | Angela Mills    | jperez@example.org        | 0      |
+| 4  | Leonard Lynn    | johndougherty@example.org | 0      |
+| 5  | Pamela Willis   | kennethellis@example.com  | 0      |
+| 6  | Tony Cameron    | robinsonmaria@example.com | 0      |
+| 7  | Austin Holmes   | wschmidt@example.net      | 0      |
+| 8  | John Simpson    | jamesandrew@example.org   | 0      |
+| 9  | Evelyn Rose     | keith45@example.org       | 0      |
+| 10 | John Lucas MD   | jacksonjustin@example.net | 0      |
+| 11 | FLAG            | PTITCTF{sqlmap_iz_c00l}   | 1      |
++----+-----------------+---------------------------+--------+
+
+[09:03:04] [INFO] table 'ISP.`user`' dumped to CSV file '/home/halston/.local/share/sqlmap/output/14.225.255.180/dump/ISP/user.csv'
+[09:03:04] [INFO] fetched data logged to text files under '/home/halston/.local/share/sqlmap/output/14.225.255.180'
+[09:03:04] [WARNING] your sqlmap version is outdated
+
+[*] ending @ 09:03:04 /2023-08-26/
