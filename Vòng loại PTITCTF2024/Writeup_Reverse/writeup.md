@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-## Rev1 (Easy)
+## rev1 (Easy)
 
 ### Solution
 
@@ -67,9 +67,7 @@
 PTITCTF{D0n't_rUn_3x3_0v0}
 ```
 
-
-
-## Rev2 (Easy)
+## rev2 (Easy)
 
 - Ở bài này được yêu cầu nhập 100 giá trị của mảng `v5` và sau khi check qua các phương trình nếu thỏa mãn các phương trình thì ta sẽ có thể lấy được flag.
 
@@ -329,7 +327,7 @@ if solver.check() == sat:
 ```
 PTITCTF{14506909c43e869034854821c}
 ```
-## rev3(medium)
+## rev3 (medium)
 
 ### Solution
 
@@ -381,7 +379,7 @@ if __name__ == '__main__':
 PTITCTF{py1nst4ll3r_g0_g0_brhhhh676fa5e5f}
 ```
 
-## Rev4 (Medium)
+## rev4 (Medium)
 
 ### Solution
 - Hàm main sẽ nhận vào `input` và chia `input` của chúng ta ra thành 2 phần mỗi phần 18 kí tự.
@@ -422,6 +420,7 @@ PTITCTF{py1nst4ll3r_g0_g0_brhhhh676fa5e5f}
     print("".join(chr(i) for i in flag1))
     ```
 - Nửa flag đầu:
+  
     ![alt text](image-10.png)
 
 - Tương tự với hàm thứ 2 ta cũng sẽ làm như vậy.
@@ -454,8 +453,8 @@ PTITCTF{py1nst4ll3r_g0_g0_brhhhh676fa5e5f}
     print("".join(chr(i) for i in flag2))
     ``` 
 - Nửa flag sau:
+  
     ![alt text](image-13.png)
-
 
     ![alt text](image-14.png)
 
