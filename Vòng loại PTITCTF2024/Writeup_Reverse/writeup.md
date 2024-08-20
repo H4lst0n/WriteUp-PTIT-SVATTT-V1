@@ -387,6 +387,7 @@ PTITCTF{py1nst4ll3r_g0_g0_brhhhh676fa5e5f}
     ![alt text](image-4.png)
 
 - Đi qua từng hàm 1 để check.
+  
     ![alt text](image-5.png)
 
 - Tại đây ta đã thỏa mãn với yêu cầu đề bài nhập vào `input` 36 kí tự và sau đó đi đến hàm `checkDecrypt`. Biến `a1` sẽ lưu vị trí flag bị `encrypt`. 
