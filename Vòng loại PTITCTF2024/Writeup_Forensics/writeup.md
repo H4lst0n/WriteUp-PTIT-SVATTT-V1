@@ -83,7 +83,7 @@ PTITCTF{babywirebabysharkkkk}
     ![alt text](image-7.png)
 
 
-- Dump 2 file này ra và đọc. Đây là nội dung của file `flag.txt`. Phân tích file `pcap.exe`.
+- Dump 2 file này ra và đọc. Phân tích file `pcap.exe`.
 
     ![alt text](image-9.png)
 
