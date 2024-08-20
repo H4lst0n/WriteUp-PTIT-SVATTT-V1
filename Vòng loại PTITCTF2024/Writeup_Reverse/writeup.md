@@ -21,19 +21,19 @@
   </tr>
     <tr>
     <td>rev3</td>
-    <td>pass: ptitctf2024</td>
+    <td>pass: ptitctf2024              author: Manhdx</td>
     <td>Medium</td>
     <td>PTITCTF{py1nst4ll3r_g0_g0_brhhhh676fa5e5f}</td>
   </tr>
   <tr>
     <td>rev4</td>
-    <td>pass: ptitctf2024</td>
+    <td>pass: ptitctf2024              author: Manhdx</td>
     <td>Medium</td>
     <td>PTITCTF{g0l4ng_1s_v3ry_funny_r1ght?}</td>
   </tr>
   <tr>
     <td>rev5</td>
-    <td>pass: ptitctf2024</td>
+    <td>pass: ptitctf2024              author: Manhdx</td>
     <td>Hard</td>
     <td>PTITCTF{phP_1s_A_hehe}</td>
   </tr>
