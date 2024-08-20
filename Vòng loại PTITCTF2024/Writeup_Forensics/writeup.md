@@ -245,7 +245,7 @@ Tôi đã cài 1 vài phần mềm học tập ngành an toàn thông tin. Nhưn
 
 - Chúng ta được cho 1 file `analysis.mem` vì vậy ta sẽ sử dụng `volatility` để phân tích với file mem này.
 
-- Ngoài ra tác giả có nói ở trên đề bài là có download các file cài đặt để thực hành, học tập thì chỉ có thể là các file `.exe` vì vậy ta sẽ chỉ tiến hành list các file `exe` có trên hệ thống máy tính.
+- Ngoài ra tác giả có nói ở trên đề bài là có download các file cài đặt để thực hành, học tập thì ta chú ý đến các file `.exe` vì vậy ta sẽ chỉ tiến hành list các file `exe` có trên hệ thống máy tính.
 
 
   ```
