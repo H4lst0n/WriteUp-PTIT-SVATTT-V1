@@ -6,42 +6,36 @@
     <th>Description</th>
     <th>Difficulty</th>
     <th>Flag</th>
-     <th>Author</th>
   </tr>
   <tr>
     <td>BabyShark</td>
     <td>Chúng tôi đã capture các gói tin mạng và bạn cần phân tích nó để thu thập thông tin quan trọng. Xem thật kĩ bạn sẽ thấy nội dung cần tìm.</td>
     <td>Easy</td>
     <td>PTITCTF{babywirebabysharkkkk}</td>
-    <td>Haind</td>
   </tr>
   <tr>
     <td>PcapDump</td>
     <td>Họ đã làm gì với máy của tôi. Hãy kiếm tra các gói tin và đánh giá. </td>
     <td>Easy</td>
     <td>PTITCTF{3xp0rt_F1l3_Fr0m_pc4p$}</td>
-    <td>Haind</td>
   </tr>
     <tr>
     <td>7Z</td>
     <td>File zip có thật sự an toàn, hãy kiểm tra nó.</td>
     <td>Medium</td>
     <td>PTITCTF{T0n_T0n_1s_My_Fr13nd!@#txc!@#}</td>
-      <td>Haind</td>
   </tr>
   <tr>
     <td>In front of Image</td>
     <td>Đằng sau bức ảnh có ẩn chứa 1 điều bí mật.</td>
     <td>Medium</td>
     <td>PTITCTF{D11_In_Front_Of_IMG_6861696e64}</td>
-    <td>Haind</td>
   </tr>
   <tr>
     <td>Mem Search</td>
     <td>Tôi đã cài 1 vài phần mềm để học tập ngành an toàn thông tin. Nhưng có một vài vấn đề xảy ra và tôi đã bị lấy cắp 1 số thứ. Có thể máy tính của tôi đã bị nhiễm "Malware". Mỗi lần mở máy tôi cảm giác nó mở lên chậm hơn so với bình thường. Tôi đã tìm cách và lấy được file "mem" từ máy của tôi bạn hãy giúp tôi phân tích nó.</td>
     <td>Hard</td>
     <td>PTITCTF{v0latility_Fr4m3w0rk@@}</td>
-    <td>Haind</td>
   </tr>
 </table>
 
