@@ -6,42 +6,36 @@
     <th>Description</th>
     <th>Difficulty</th>
     <th>Flag</th>
-    <th>Author</th>
   </tr>
   <tr>
     <td>rev1</td>
     <td>pass: ptitctf2024</td>
     <td>Easy</td>
     <td>PTITCTF{D0n't_rUn_3x3_0v0}</td>
-    <td>Haind</td>
   </tr>
   <tr>
     <td>rev2</td>
     <td>Math equations Grade 3. pass: ptitctf2024</td>
     <td>Easy</td>
     <td>PTITCTF{14506909c43e869034854821c}</td>
-    <td>Haind</td>
   </tr>
   <tr>
     <td>rev3</td>
     <td>pass: ptitctf2024</td>
     <td>Medium</td>
     <td>PTITCTF{py1nst4ll3r_g0_g0_brhhhh676fa5e5f}</td>
-    <td>Manhdx</td>
   </tr>
   <tr>
     <td>rev4</td>
     <td>pass: ptitctf2024</td>
     <td>Medium</td>
     <td>PTITCTF{g0l4ng_1s_v3ry_funny_r1ght?}</td>
-    <td>Manhdx</td>
   </tr>
   <tr>
     <td>rev5</td>
     <td>pass: ptitctf2024</td>
     <td>Hard</td>
     <td>PTITCTF{phP_1s_A_hehe}</td>
-    <td>Manhdx</td>
   </tr>
 </table>
 
